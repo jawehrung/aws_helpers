@@ -12,6 +12,8 @@ ENV/
 env.bak/
 venv.bak/
 
+.git
+
 # Fichiers de configuration IDE
 .idea/
 .vscode/
