@@ -1,4 +1,5 @@
 # Simple AWS Helpers 
+![Language Python](https://img.shields.io/badge/%20Language-python-blue.svg)
 
 Ce projet contient un ensemble de fonctions utilitaires pour interagir avec divers services AWS en utilisant Boto3. 
 
@@ -182,6 +183,6 @@ from aws_helpers import create_session, get_boto3_client, start_ec2_instance
 - [AWS Lambda API Reference](https://docs.aws.amazon.com/lambda/index.html)
 - [AWS CloudFormation API Reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/APIReference/Welcome.html)
 - [AWS DynamoDB API Reference](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/Welcome.html)
-```
-#   a w s _ h e l p e r s  
- 
+
+ 
+ 
