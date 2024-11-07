@@ -1,4 +1,6 @@
 # Simple Aws Helpers
+# Released under the MIT licence.
+# Copyright (c) Jean-Aimé Wehrung 2024
 
 import json
 import boto3
