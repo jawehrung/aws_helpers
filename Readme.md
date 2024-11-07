@@ -1,4 +1,5 @@
 # Simple AWS Helpers 
+![Language Python](https://img.shields.io/badge/%20Language-python-blue.svg)
 
 Ce projet contient un ensemble de fonctions utilitaires pour interagir avec divers services AWS en utilisant Boto3. 
 
